@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Facebook-Android</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="facebook_app_id">1740551976266802</string>
+    <string name="id_banner">ca-app-pub-1328153085047329/2548288292</string>
+</resources>
